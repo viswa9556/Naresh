@@ -26,7 +26,7 @@ function salary(x){
     }
     return y;
 }
-let result = salary(employees);
+let result = salay(employees);
 console.log(result);
 console.log(employees); */
 
