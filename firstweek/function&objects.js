@@ -72,6 +72,3 @@ let analyzeExam = students.map(x=>{
 });
 console.log(analyzeExam); */
 
-function first(){
-    console.log("this is main Branch");
-}
