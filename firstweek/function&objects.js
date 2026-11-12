@@ -71,3 +71,5 @@ let analyzeExam = students.map(x=>{
 
 });
 console.log(analyzeExam); */
+
+console.log("This one is to check whether the branch cut is working or not and its in the 'NEWB' branch ")
